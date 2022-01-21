@@ -1,1 +1,2 @@
-This is a basic rock paper scissors game (Created with Python)
+A basic rock paper scissors game.
+Created with Python
